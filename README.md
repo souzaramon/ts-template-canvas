@@ -1,4 +1,4 @@
-# 🖤 ts-template-canvas
+# 💙 ts-template-canvas
 > A simple stater template to typescript + canvas, here you can find a [**demo**](https://souzaramon.github.io/ts-template-canvas)
 
 Start the app
